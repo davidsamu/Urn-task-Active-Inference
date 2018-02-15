@@ -1,5 +1,3 @@
-# Urn_task_Active_Inference
-
 Script solving the urn task using the Active Inference framework [Python]
 
 Implementing the model of
